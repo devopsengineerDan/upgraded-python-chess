@@ -1,3 +1,6 @@
+# python-chess.master.zip 
+Separate version of the software
+
 # Custom Chess Engine
 A chess engine written from scratch, including single player mode and multiplayer mode, written using Python. A C++ implementation is slowly in the works.
 
